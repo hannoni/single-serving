@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.gstatic.com"> 
+  <meta name=description content="Recipes from High School">
+  <link rel="stylesheet" href="css/main.css">
+  <title>Recipes from High School</title>
+  <link rel="canonical" href="????">
+  <meta name="author" content="Isabella Hannon">
+</head>
+<body>
+  
+ <h1>
+    <a href="index.html">Recipes from High School</a>
+ </h1>
+
+<article class="recipe">
+
+<h1>Blueberry Lemon Muffins</h1>
+ 
+<p class="serving"><em>12 servings</em></p>
+
+<section class="list" id="ingredients">
+
+</section>
+
+<h3>Ingredients</h3>
+  
+<ul>
+  <li>2 eggs</li>
+  <li>½ cup melted margarine</li>
+  <li>1 cup sugar</li>
+  <li>8 ounces plain whole milk yogurt</li>
+  <li>2 cups flour</li>
+  <li>1 teaspoon baking powder</li>
+  <li>½ teaspoon baking soda</li>
+  <li>1 teaspoon lemon rind</li>
+  <li>1 cup frozen blueberries</li>
+</ul>
+  
+<section class="list" id="directions">  
+  
+<h3>Directions</h3>
+  
+<ol>
+  <li>Preheat the oven to 375 degrees.</li>
+  <li>Combine eggs, margarine, and sugar in a large mixing bowl; beat until smooth. Stir in yogurt.</li>
+  <li>Add flour, baking powder, baking soda and lemon rind; mix just until moistened.</li>
+  <li>Fold in blueberries.</li>
+  <li>Spoon into greased (or paper lined) muffin cups.</li>
+  <li>Bake for 25 minutes.</li>
+</ol>
+    
+</section>   
+  
+</article>
+  
+<p><a href="#">↑ Back to top</a></p>
+    
+</body>
+</html>
