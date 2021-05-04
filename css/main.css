@@ -3,3 +3,7 @@
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   gap: 1rem;
 }
+
+.food {
+  width: 100%;
+}  
