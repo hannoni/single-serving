@@ -37,6 +37,19 @@ body {
   padding-bottom: 2rem;
 }
 
+figcaption {
+  font-family: 
+  text-align: center;
+}
+
+ul {
+  font-family:
+}
+
+ol {
+  font-family:
+}
+
 @media (min-width: 60em) {
   
 
