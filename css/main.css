@@ -19,6 +19,12 @@ html {
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   gap: 1rem;
 }
+
+.pizza-cover {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+}
   
 ul {
   list-style: none url(//:0); /* Remove bullets, without removing semantics */
@@ -99,6 +105,13 @@ ol {
   font-size: 18px;
 }
 
+summary {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 1.8em;
+  margin-bottom: 1rem;
+}
+
 @media (min-width: 60em) {
   
 
@@ -157,7 +170,7 @@ nav ul {
 
 #details dt {
  font-family: Poppins;
- font-weight: 600;
+ font-weight: 400;
  margin-top: 1em;
  margin-left: 0;
  margin-bottom: 0;
