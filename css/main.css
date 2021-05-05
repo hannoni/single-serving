@@ -14,6 +14,14 @@ html {
   gap: 1rem;
 } 
 
+ul {
+  list-style: none url(//:0); /* Remove bullets, without removing semantics */
+  list-style-type: none;
+  list-style-image: url(//:0);
+  list-style-position: outside;
+  padding-left: 0; /* Remove left padding for flush left appearance */
+}
+
 img {
   width: auto;
   max-width: 100%;
