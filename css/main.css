@@ -14,6 +14,12 @@ html {
   gap: 1rem;
 } 
 
+.desserts-cover {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+}
+  
 ul {
   list-style: none url(//:0); /* Remove bullets, without removing semantics */
   list-style-type: none;
