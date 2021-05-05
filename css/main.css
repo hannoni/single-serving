@@ -55,10 +55,12 @@ figcaption {
 
 ul {
   font-family: 'Poppins', sans-serif;
+  line-height: 2.5;
 }
 
 ol {
   font-family: 'Poppins', sans-serif;
+  line-height: 2.5;
 }
 
 @media (min-width: 60em) {
