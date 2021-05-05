@@ -55,6 +55,12 @@ h3 {
   font-family: 'Poppins', sans-serif;
   font-weight: 900;
   font-size: 30px;
+}
+
+h6 {
+  font-family: 'Poppins', sans-serif;
+  line-height: 2.5;
+  margin-bottom: 2rem;
 }  
 
 .serving {
@@ -71,6 +77,12 @@ body {
   padding-bottom: 2rem;
   background: #fbfcfc;
 }
+
+p {
+  font-family: 'Poppins', sans-serif;
+  line-height: 2.5;
+  font-size: 18px;
+}  
 
 figcaption {
   font-family: 
