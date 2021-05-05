@@ -36,6 +36,11 @@ h2 {
   font-size: 40px;
 }
 
+h3 {
+  font-family: 'Gorditas', cursive;
+  font-size: 20px;
+}  
+
 .serving {
   text-align: center;
 }
@@ -56,11 +61,13 @@ figcaption {
 ul {
   font-family: 'Poppins', sans-serif;
   line-height: 2.5;
+  font-size: 12px;
 }
 
 ol {
   font-family: 'Poppins', sans-serif;
   line-height: 2.5;
+  font-size: 12px;
 }
 
 @media (min-width: 60em) {
