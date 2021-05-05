@@ -55,6 +55,7 @@ h2 {
   text-align: center;
   font-family: 'Gorditas', cursive;
   font-size: 40px;
+  margin-bottom: 2rem;
 }
 
 h3 {
@@ -159,6 +160,10 @@ nav ul {
   color: #00000;
 }
 }
+
+.time {
+  margin-bottom: 3rem;
+}  
 
 #details div {
   padding-top: 0.5rem;
