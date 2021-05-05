@@ -161,6 +161,7 @@ nav ul {
   
 .food:hover figcaption {
   z-index: 0;
+  background-color: #ffffff;
   
 }
 
