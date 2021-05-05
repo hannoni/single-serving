@@ -78,7 +78,6 @@ h6 {
 }
 
 body {
-  font-family: Lexend;
   max-width: 60rem;
   padding: 0 0.5rem;
   margin: 1rem auto;
@@ -170,7 +169,7 @@ nav ul {
 
 #details dt {
  font-family: Poppins;
- font-weight: 400;
+ font-weight: 600;
  margin-top: 1em;
  margin-left: 0;
  margin-bottom: 0;
