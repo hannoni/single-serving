@@ -8,6 +8,12 @@ html {
   gap: 1rem;
 }
 
+.breakfast-cover {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+} 
+
 img {
   width: auto;
   max-width: 100%;
