@@ -40,7 +40,7 @@ figure {
 h1 {
   text-align: center;
   font-family: 'Gorditas', cursive;
-  font-size: 50px;
+  font-size: 72px;
   color: #3498db;
 }
 
@@ -73,7 +73,7 @@ h6 {
 .serving {
   text-align: center;
   font-size: 20px;
-  margin-top: -1rem;
+  margin-top: -2.5rem;
 }
 
 body {
