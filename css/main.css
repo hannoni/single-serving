@@ -84,15 +84,6 @@ body {
   background: #fef9e7;
 }
 
-body {
-  background-color: #d1f2eb;
-  background-image: url(background.png);
-  background-repeat: no-repeat;
-  background-position: center 25%;
-  background-attachment: fixed;
-  background-size: 16rem, 100%;
-}
-
 p {
   font-family: 'Poppins', sans-serif;
   line-height: 2.5;
